@@ -12,3 +12,5 @@ This repository contains code and customization examples for enabling installmen
 ## Usage
 
 Clone the repo and follow the instructions in `INSTALL.md` to apply the customization to your store.
+
+learn here => https://www.loom.com/share/a0b976d1053e4d21b59b27b6515b755b
