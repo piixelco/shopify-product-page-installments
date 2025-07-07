@@ -1,8 +1,7 @@
-  <!-- New Installment Section -->
-{% assign max_installments = 10 %}
+{% assign max_installments = 3 %}
 {% assign installment_value = current_variant.price | divided_by: max_installments | money %}
 
-<div class="font-body mt-2 text-sm">
+<div class="font-body mt-2 text-sm " style="font-size:14px!important;padding-top:10px!important;">
   <span class="installment-plan">
     {{ max_installments }}x {{ installment_value }}
   </span>
